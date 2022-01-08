@@ -16,3 +16,4 @@ for i in range(int(input())):
                 unique.append(lis[k]*-1)
 
     print(len(unique))
+    
